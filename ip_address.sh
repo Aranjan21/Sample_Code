@@ -2,4 +2,4 @@
 ifconfig
 date
 ps -ef |grep 'java'
-free -m
+
